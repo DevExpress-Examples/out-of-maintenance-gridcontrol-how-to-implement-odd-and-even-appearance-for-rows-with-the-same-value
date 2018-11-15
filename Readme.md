@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/OddAndEvenRowAppearances/Form1.cs) (VB: [Form1.vb](./VB/OddAndEvenRowAppearances/Form1.vb))
+* [Program.cs](./CS/OddAndEvenRowAppearances/Program.cs) (VB: [Program.vb](./VB/OddAndEvenRowAppearances/Program.vb))
+* [RowStyleHelper.cs](./CS/OddAndEvenRowAppearances/RowStyleHelper.cs) (VB: [RowStyleHelper.vb](./VB/OddAndEvenRowAppearances/RowStyleHelper.vb))
+<!-- default file list end -->
 # GridControl - How to implement odd and even appearance for rows with the same values
 
 
